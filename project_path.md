@@ -37,7 +37,41 @@ pip3 --version
 
 ```
 
+## [download](https://interactivebrokers.github.io/#) and install ibkr api
+
+```bash
+```
+
+## create and init venv
+## TODO HOW DEAS WORK'S
+
+```bash
+# into env
+source .venv/bin/activate
+#leave env
+deactivate
+
+```
+
+## 
+[Interactive Brokers Python API (Native) – A Step-by-step Guide](https://www.interactivebrokers.com/campus/ibkr-quant-news/interactive-brokers-python-api-native-a-step-by-step-guide/)
 
 
+## [setupibkr](https://www.interactivebrokers.com/campus/trading-lessons/accessing-the-tws-python-api-source-code/) 
+
+```bash
+python setup.py install
+python3 IBJts/source/pythonclient/setup.py install
+
+```
+
+## start first sample python program INSIDE .venv
+
+```bash
+
+python3 IBJts/samples/Python/Testbed/Program.py
+
+```
 
 
+pip3 install ibapi
