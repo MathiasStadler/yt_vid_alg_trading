@@ -1,0 +1,1 @@
+# [install-python3-pip-debian-12](https://reintech.io/blog/install-python3-pip-debian-12)
