@@ -1,6 +1,9 @@
 # FROM HERE
 # https://www.interactivebrokers.com/campus/ibkr-quant-news/interactive-brokers-python-api-native-a-step-by-step-guide/
 
+# Interactive Brokers Python API (Native) – A Step-by-step Guide
+# https://algotrading101.com/learn/interactive-brokers-python-api-native-guide/
+
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper  
 
@@ -35,6 +38,6 @@ of version 954.1 or newer:  TWS: 7497; IB Gateway: 4002
 INTO VENV =>  source .venv/bin/activate
 LIST INSTALLED PACKAGE => pip3 freeze
 DEKTIVATE VENV = deactivate
-START PRG => python3 src/check_connection.py
+START PRG => python3 src/01_check_connection.py
 '''
 
