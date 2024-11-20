@@ -57,7 +57,7 @@ deactivate
 [Interactive Brokers Python API (Native) – A Step-by-step Guide](https://www.interactivebrokers.com/campus/ibkr-quant-news/interactive-brokers-python-api-native-a-step-by-step-guide/)
 
 
-## [setupibkr](https://www.interactivebrokers.com/campus/trading-lessons/accessing-the-tws-python-api-source-code/) 
+## [setup ibkr](https://www.interactivebrokers.com/campus/trading-lessons/accessing-the-tws-python-api-source-code/) 
 
 ```bash
 python setup.py install

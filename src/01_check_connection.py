@@ -24,7 +24,7 @@ app.disconnect()
 '''
 
 ''''
-TWS NOT Running sdhow this
+TWS NOT Running show this
  python3 src/check_connection.py 
 ERROR -1 502 Couldn't connect to TWS. Confirm that "Enable ActiveX and Socket EClients" 
 is enabled and connection port is the same as "Socket Port" on the 
@@ -37,7 +37,7 @@ of version 954.1 or newer:  TWS: 7497; IB Gateway: 4002
 '''
 INTO VENV =>  source .venv/bin/activate
 LIST INSTALLED PACKAGE => pip3 freeze
-DEKTIVATE VENV = deactivate
+DEACTIVATE VENV = deactivate
 START PRG => python3 src/01_check_connection.py
 '''
 
